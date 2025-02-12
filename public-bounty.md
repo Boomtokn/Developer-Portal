@@ -34,4 +34,4 @@ In addition to coding and discussion, you can also show your support for the wor
 
 ## How does it work
 
-Please check our [discussion post](https://forum.bitcoingold.org/t/thoughts-about-the-public-bounty-program/2670) on Bitcoin Gold forum.
+Please check our [discussion post](https://forum.btgofficial.org/t/thoughts-about-the-public-bounty-program/2670) on Bitcoin Gold forum.
